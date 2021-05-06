@@ -1,7 +1,7 @@
 //write a function called maxSubArraySum which
 //accepts an array of integers and a number called n. 
 //function should calculate the maximum sum of consecutive
-//elements
+//elements-need to review
 
 function maxSubarraySum(arr,num){
     //The loop for i< arr.length-num+1
