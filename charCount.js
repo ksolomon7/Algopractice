@@ -32,5 +32,6 @@ function charCount(str){
    
 }
 
+//examples of inputs
 charCount("hello")
 charCount("My phone number is 111134")//example 2
